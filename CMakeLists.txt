@@ -49,6 +49,7 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files(
   FILES
   RaspiMouseEvent.msg
+  RaspiMouseAccelerationEvent.msg
   PFoEOutput.msg
 )
 
