@@ -50,6 +50,7 @@ add_message_files(
   FILES
   RaspiMouseEvent.msg
   RaspiMouseAccelerationEvent.msg
+  RaspiMouseImu6axisEvent.msg
   PFoEOutput.msg
 )
 
